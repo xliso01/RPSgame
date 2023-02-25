@@ -1,0 +1,15 @@
+/Users/thaiprincess/Desktop/repo/RPSgame/bin/Debug/net7.0/RPS_Shoot
+/Users/thaiprincess/Desktop/repo/RPSgame/bin/Debug/net7.0/RPS_Shoot.deps.json
+/Users/thaiprincess/Desktop/repo/RPSgame/bin/Debug/net7.0/RPS_Shoot.runtimeconfig.json
+/Users/thaiprincess/Desktop/repo/RPSgame/bin/Debug/net7.0/RPS_Shoot.dll
+/Users/thaiprincess/Desktop/repo/RPSgame/bin/Debug/net7.0/RPS_Shoot.pdb
+/Users/thaiprincess/Desktop/repo/RPSgame/obj/Debug/net7.0/RPS_Shoot.csproj.AssemblyReference.cache
+/Users/thaiprincess/Desktop/repo/RPSgame/obj/Debug/net7.0/RPS_Shoot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thaiprincess/Desktop/repo/RPSgame/obj/Debug/net7.0/RPS_Shoot.AssemblyInfoInputs.cache
+/Users/thaiprincess/Desktop/repo/RPSgame/obj/Debug/net7.0/RPS_Shoot.AssemblyInfo.cs
+/Users/thaiprincess/Desktop/repo/RPSgame/obj/Debug/net7.0/RPS_Shoot.csproj.CoreCompileInputs.cache
+/Users/thaiprincess/Desktop/repo/RPSgame/obj/Debug/net7.0/RPS_Shoot.dll
+/Users/thaiprincess/Desktop/repo/RPSgame/obj/Debug/net7.0/refint/RPS_Shoot.dll
+/Users/thaiprincess/Desktop/repo/RPSgame/obj/Debug/net7.0/RPS_Shoot.pdb
+/Users/thaiprincess/Desktop/repo/RPSgame/obj/Debug/net7.0/RPS_Shoot.genruntimeconfig.cache
+/Users/thaiprincess/Desktop/repo/RPSgame/obj/Debug/net7.0/ref/RPS_Shoot.dll
